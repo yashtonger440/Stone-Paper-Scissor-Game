@@ -3,7 +3,6 @@
 A fun and interactive **Stone Paper Scissors** game built using **HTML, CSS, and JavaScript**.  
 Play against the computer and test your luck and strategy in this classic game!
 
----
 
 ## 🎮 Features
 
@@ -12,8 +11,6 @@ Play against the computer and test your luck and strategy in this classic game!
 - Random computer choices 🤖  
 - Real-time score updates 🧮  
 - Restart option to play again 🔁  
-
----
 
 ## 🛠️ Tech Stack
 
@@ -31,8 +28,6 @@ Play against the computer and test your luck and strategy in this classic game!
    - 📄 beats 🪨  
    - ✂️ beats 📄  
 4. You can restart the game anytime.
-
----
 
 ## 💻 Installation & Setup
 
