@@ -40,7 +40,7 @@ To run this project locally:
 
 ```bash
 # Clone this repository
-git clone https://github.com/<your-username>/stone-paper-scissors.git
+git clone https://github.com/yashtonger440/stone-paper-scissors.git
 
 # Navigate into the folder
 cd stone-paper-scissors
